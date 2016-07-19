@@ -1,0 +1,14 @@
+layout_spectrum: 0.033286120276898146
+typography_spectrum: 0.09890936338342726
+color:
+  brandStrength: 0.31086478126235306
+  lightness: 0.6896893992088735
+  saturation: 0.05210441001690924
+  rhythmicContrast: 0.4356669669505209
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Picasso
