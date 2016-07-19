@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Picasso]]></title>
         <description><![CDATA[Picasso]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/picasso/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 00:04:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jul 2016 00:04:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/picasso/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Dry Cleaners Blog]]></title>
-            <description><![CDATA[<article><h1>The Dry Cleaners Blog</h1><p>Most dry cleaners are familiar with the OTPR (oily type paint remover) Pyratex®, manufactured by Streets®, an outstanding stain remover and an industry staple for many years. Pyratex® has the ability to quickly cut through exceptionally heavy stains such as grease, shoe polish, lipstick, paints and oils, just to name a few.</p><img src="http://2.bp.blogspot.com/-AEwqadj5kgY/UXFR0R4tKlI/AAAAAAAAAN4/7oq8Td9OBRI/w1200-h630-p-nu/PyratexLV_300x233.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The Dry Cleaners Blog</h1><p>A question I am often asked when visiting dry cleaning plants is what can I do to increase my sales here? And lets face it, rents are high, dry cleaning volumes are down, who couldn't use some extra revenue.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c11a872a6a3deaf3f17f5c1b0ccbbe1/noop.jpg?input=http%3A%2F%2F3.bp.blogspot.com%2F-1Os0TEQbfi4%2FUV2rDPpHCPI%2FAAAAAAAAAMo%2FYu31LQ4669U%2Fw1200-h630-p-nu%2Fshoe%2Brepair.jpg"></article>]]></description>
+            <link>http://www.thedrycleanersblog.com/2013/04/do-customers-know-services-you-offer.html#.V41uaZMrKRs</link>
+            <guid isPermaLink="false">cd9cbe78-b56a-4108-9fb9-98437207646b</guid>
+            <pubDate>Tue, 19 Jul 2016 00:04:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Dry Cleaners Blog]]></title>
+            <description><![CDATA[<article><h1>The Dry Cleaners Blog</h1><p>Most dry cleaners are familiar with the OTPR (oily type paint remover) Pyratex®, manufactured by Streets®, an outstanding stain remover and an industry staple for many years. Pyratex® has the ability to quickly cut through exceptionally heavy stains such as grease, shoe polish, lipstick, paints and oils, just to name a few.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/99ce7f156088a8044d8756a245ccd22f/noop.png?input=http%3A%2F%2F2.bp.blogspot.com%2F-AEwqadj5kgY%2FUXFR0R4tKlI%2FAAAAAAAAAN4%2F7oq8Td9OBRI%2Fw1200-h630-p-nu%2FPyratexLV_300x233.png"></article>]]></description>
             <link>http://www.thedrycleanersblog.com/2013/04/how-do-you-remove-grease-stains-in_10.html#.V41uRZMrKRs</link>
             <guid isPermaLink="false">dc0ae786-04f1-4657-a8c5-21fa598c0a08</guid>
             <pubDate>Tue, 19 Jul 2016 00:04:07 GMT</pubDate>
